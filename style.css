@@ -48,7 +48,9 @@ body{
 .footer-about{
     background-color: black;
     color: whitesmoke;
+    margin: 0;
     padding: 10px;
+    border-radius: 20px;
 }
 .footer-about a{
     color: white;
