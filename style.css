@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.eub-bg-info{
+    background-color: rgb(141, 250, 174);
+}
+.eub-btn-buy-now{
+    background-color: rgb(135, 50, 192);
+    font-weight: bold;
+    padding: 15px 30px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+.eub-btn-buy-now:hover{
+    color: rgb(236, 231, 224);
+}
+.clint-danger{
+    color: orange;
+}
+/* subscribe  */
+.EUB-bg-info{
+    background-color: rgb(108, 172, 108);
+}
+
+.footer-bg-dark{
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 20px;
+}
+.footer-bg-dark a{
+    color: white;
+    height: 100px;
+    font-size: 15px;
+    margin-left: 10px;
+    text-decoration: none;
+
+}
+
+
+/* About */
+.Font-F{
+    font-family: 'Gowun Batang', serif;
+}
+.footer-about{
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px;
+}
+.footer-about a{
+    color: white;
+    height: 100px;
+    font-size: 15px;
+    margin-left: 10px;
+    text-decoration: none;
+}
