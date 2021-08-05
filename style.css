@@ -59,3 +59,8 @@ body{
     margin-left: 10px;
     text-decoration: none;
 }
+
+/* Student portal  */
+.student-danger{
+    color: rgba(155, 233, 54, 0.918);
+}
